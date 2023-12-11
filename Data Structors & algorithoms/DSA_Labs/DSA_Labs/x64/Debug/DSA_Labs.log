@@ -1,0 +1,11 @@
+﻿  DSA_Main.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\Huffman.h(322,21): warning C4018: '<': signed/unsigned mismatch
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\Huffman.h(315,8): warning C4101: 't': unreferenced local variable
+  DSA_TestSuite_Lab1.cpp
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\DynArray.h(217,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\DynArray.h(207): message : while compiling class template member function 'void DynArray<int>::Reserve(size_t)'
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\DSA_TestSuite_Lab1.cpp(521): message : see reference to function template instantiation 'void DynArray<int>::Reserve(size_t)' being compiled
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\DSA_TestSuite_Lab1.cpp(28): message : see reference to class template instantiation 'DynArray<int>' being compiled
+C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\DSA_Labs\DynArray.h(221,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  DSA_Labs.vcxproj -> C:\C#Projects\Full Sail Class Work\C++ projects\Data Structors & algorithoms\DSA_Labs\x64\Debug\DSA_Labs.exe
